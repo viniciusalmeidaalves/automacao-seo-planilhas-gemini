@@ -69,7 +69,7 @@ O script começará a processar os itens e salvará os resultados no arquivo `SE
 Execultandos script no visual studio code
 <img width="1365" height="727" alt="image" src="https://github.com/user-attachments/assets/34c8fff9-403c-4dba-b4ed-8a607c215b85" />
 
-Planilha para realização de SEO em 827 produtos
+Planilha com realização de SEO em 827 produtos
 <img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/528e3925-fca8-412a-8481-e958a97b43b6" />
 
 ## Tecnologias
