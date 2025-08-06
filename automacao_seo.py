@@ -5,7 +5,7 @@ import time
 
 # --- CONFIGURAÇÃO ---
 # Coloque a sua Chave de API do Google aqui
-GOOGLE_API_KEY = 'AIzaSyAyR3sIlE0mQaiMfVZqhH-XBRsXE7uuWvA'
+GOOGLE_API_KEY = 'CODIGO_DA_API_GOOGLE'
 
 # Nomes dos arquivos
 ARQUIVO_EXCEL_ENTRADA = 'SEO (Search Engine Optimization) RJE Iluminacao.xlsx'
@@ -92,5 +92,6 @@ for index, row in df.iterrows():
 
 # Salva o DataFrame modificado em um novo arquivo Excel
 df.to_excel(ARQUIVO_EXCEL_SAIDA, index=False)
+
 
 print(f"\n✅ Processo concluído! Os resultados foram salvos em '{ARQUIVO_EXCEL_SAIDA}'")
