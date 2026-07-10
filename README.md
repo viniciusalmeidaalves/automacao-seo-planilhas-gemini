@@ -55,7 +55,7 @@ Siga os passos abaixo para configurar e executar a automação.
 ### Configuração
 
 1.  **Prepare a Planilha de Entrada:**
-    * Coloque seu arquivo Excel na pasta do projeto. O nome padrão esperado é `SEO (Search Engine Optimization) RJE Iluminacao.xlsx`.
+    * Coloque seu arquivo Excel na pasta do projeto. O nome padrão esperado é `SEO (Search Engine Optimization) Nova Loja.xlsx`.
     * A planilha deve conter no mínimo as colunas: `Nome produto` e `Descrição grande`.
 
 2.  **Configure o Script:**
@@ -83,7 +83,7 @@ import time
 GOOGLE_API_KEY = 'CODIGO_DA_API_GOOGLE'
 
 # Nomes dos arquivos
-ARQUIVO_EXCEL_ENTRADA = 'SEO (Search Engine Optimization) RJE Iluminacao.xlsx'
+ARQUIVO_EXCEL_ENTRADA = 'SEO (Search Engine Optimization) Nova Loja.xlsx'
 ARQUIVO_EXCEL_SAIDA = 'SEO (Search Engine Optimization) Resultados_preenchidos.xlsx'
 
 # Nomes das colunas na sua planilha
