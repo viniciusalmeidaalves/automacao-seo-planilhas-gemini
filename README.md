@@ -1,5 +1,12 @@
 # Automação de SEO para Planilhas com Google Gemini
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-API-green)
+![Gemini](https://img.shields.io/badge/Google-Gemini-blueviolet)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-lightgrey)
+![SEO](https://img.shields.io/badge/SEO-Automation-orange)
+![CSV](https://img.shields.io/badge/CSV-Data%20Processing-yellowgreen)
+
 Este projeto contém um script Python desenvolvido para automatizar a criação de conteúdo de SEO (Título, Descrição e Palavras-Chave) para uma lista de produtos contida em uma planilha Excel, utilizando a poderosa API do Google Gemini.
 
 ## Visão Geral
