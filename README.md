@@ -176,18 +176,3 @@ Planilha com realização de SEO em 827 produtos
 [![Excel](https://img.shields.io/badge/Excel-Planilha%20SEO-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/user-attachments/files/29897603/SEO.Search.Engine.Optimization.Nome.da.Loja.xlsx)
 
 
-<img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/528e3925-fca8-412a-8481-e958a97b43b6" />
-
-## Tecnologias
-- Linguagem de Programação: Python
-
-- Principal Biblioteca de IA: Google Generative AI (google-generativeai)
-
-- Manipulação de Dados: Pandas
-
-- Interação com Excel: OpenPyXL
-
-- Ambiente Virtual: venv
-
-- API Externa: Google Gemini API
-
