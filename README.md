@@ -173,6 +173,7 @@ print(f"\n Processo concluído! Os resultados foram salvos em '{ARQUIVO_EXCEL_SA
 ```
 Planilha com realização de SEO em 827 produtos
 
-[![Excel](https://img.shields.io/badge/Excel-Planilha%20SEO-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/user-attachments/files/29897603/SEO.Search.Engine.Optimization.Nome.da.Loja.xlsx)
+[SEO.Search.Engine.Optimization.RJE.Iluminacao.xlsx](https://github.com/user-attachments/files/30371966/SEO.Search.Engine.Optimization.RJE.Iluminacao.xlsx)
+
 
 
