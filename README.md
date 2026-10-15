@@ -1,4 +1,4 @@
-# Automação de descrições de produtos
+# Automação de SEO para produtos com Google Gemini
 
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Google Gemini](https://img.shields.io/badge/Google-Gemini-8E44AD?logo=google&logoColor=white)](https://ai.google.dev/)
@@ -17,8 +17,6 @@ Esta aplicação automatiza a preparação de produtos para publicação no site
 - endereço (URL) do produto.
 
 ![Automação de SEO](screenshots/Search%20Engine%20Optimization.png)
-
-![Estrutura dos screenshots](screenshots/Estrutura%20dos%20screenshots.png)
 
 O objetivo é reduzir o trabalho manual, padronizar os textos e acelerar o
 cadastro dos produtos.
